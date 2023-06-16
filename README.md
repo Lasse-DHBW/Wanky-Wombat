@@ -8,7 +8,6 @@ Welcome to Wanky Wombat! This project is a simple web application for reporting 
 
    ```bash
    git clone https://github.com/username/wanky-wombat.git
-   cd wanky-wombat
    ```
 
 2. **Environment Variables Setup**
