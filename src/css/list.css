@@ -1,0 +1,11 @@
+.entry {
+    color: black;
+    background-color: #c2c9b5;
+    border: solid grey 1px;
+    line-height: 2em;
+    padding-left: 2em;
+}
+
+.list_btn {
+    margin: 5px;
+}

@@ -1,0 +1,66 @@
+.hero {
+    background-image: url("../img/snake.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    padding-bottom: 50%;
+    color: white
+}
+
+#titel {
+    font-size: 80px;
+    font-weight: 700;
+    width: fit-content;
+    font-style: italic;
+}
+
+#claim {
+    font-size: 50px;
+    font-weight: 600;
+    width: fit-content;
+}
+
+#cta {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.cards {
+    background-color: #08090b;
+}
+
+.card {
+    background-color: #c2c9b5;
+    height: 100%;
+}
+
+.btn {
+    background-color: #596640;
+    border: 0;
+}
+
+.btn-primary:hover {
+    background-color: #89a15c;
+}
+
+
+@media screen and (max-width: 768px) {
+
+    .hero {
+        height: 60vh;
+    }
+    
+    #titel {
+        font-size: 40px;
+    }
+    
+    #claim {
+        font-size: 30px;
+    }
+
+    #cta {
+        font-size: 25px;
+    }
+}

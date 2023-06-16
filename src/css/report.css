@@ -1,0 +1,11 @@
+.label {
+    font-weight: 700;
+    font-style: italic;
+    text-align: end;
+}
+
+@media screen and (max-width: 768px) {
+    .label {
+        text-align: center;
+    }
+}

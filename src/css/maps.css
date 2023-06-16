@@ -1,0 +1,14 @@
+.leaflet-container {
+  width: 100vw;
+  height: 80vh;
+}
+
+.map_text {
+  font-size: 20px;
+}
+
+#map_image {
+  height: 200px;
+  font-style: italic;
+  font-size: 15px;
+}
