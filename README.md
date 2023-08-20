@@ -7,7 +7,7 @@ Welcome to Wanky Wombat! This project is a simple web application for reporting 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/username/wanky-wombat.git
+   git clone https://github.com/LasseFrie/wanky-wombat.git
    ```
 
 2. **Environment Variables Setup**
